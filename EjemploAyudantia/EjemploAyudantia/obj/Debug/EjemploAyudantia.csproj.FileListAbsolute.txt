@@ -1,0 +1,11 @@
+C:\Mac\Home\Documents\EDA\EjemploAyudantia\EjemploAyudantia\bin\Debug\EjemploAyudantia.exe.config
+C:\Mac\Home\Documents\EDA\EjemploAyudantia\EjemploAyudantia\bin\Debug\EjemploAyudantia.exe
+C:\Mac\Home\Documents\EDA\EjemploAyudantia\EjemploAyudantia\bin\Debug\EjemploAyudantia.pdb
+C:\Mac\Home\Documents\EDA\EjemploAyudantia\EjemploAyudantia\obj\Debug\EjemploAyudantia.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\EDA\EjemploAyudantia\EjemploAyudantia\obj\Debug\EjemploAyudantia.Form1.resources
+C:\Mac\Home\Documents\EDA\EjemploAyudantia\EjemploAyudantia\obj\Debug\EjemploAyudantia.Properties.Resources.resources
+C:\Mac\Home\Documents\EDA\EjemploAyudantia\EjemploAyudantia\obj\Debug\EjemploAyudantia.csproj.GenerateResource.cache
+C:\Mac\Home\Documents\EDA\EjemploAyudantia\EjemploAyudantia\obj\Debug\EjemploAyudantia.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\EDA\EjemploAyudantia\EjemploAyudantia\obj\Debug\EjemploAyudantia.exe
+C:\Mac\Home\Documents\EDA\EjemploAyudantia\EjemploAyudantia\obj\Debug\EjemploAyudantia.pdb
+C:\Mac\Home\Documents\EDA\EjemploAyudantia\EjemploAyudantia\obj\Debug\EjemploAyudantia.exe.config
