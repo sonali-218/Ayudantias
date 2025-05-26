@@ -1,0 +1,14 @@
+C:\Mac\Home\Documents\EDA\AnimalesApp\AnimalesApp\bin\Debug\net8.0\AnimalesApp.exe
+C:\Mac\Home\Documents\EDA\AnimalesApp\AnimalesApp\bin\Debug\net8.0\AnimalesApp.deps.json
+C:\Mac\Home\Documents\EDA\AnimalesApp\AnimalesApp\bin\Debug\net8.0\AnimalesApp.runtimeconfig.json
+C:\Mac\Home\Documents\EDA\AnimalesApp\AnimalesApp\bin\Debug\net8.0\AnimalesApp.dll
+C:\Mac\Home\Documents\EDA\AnimalesApp\AnimalesApp\bin\Debug\net8.0\AnimalesApp.pdb
+C:\Mac\Home\Documents\EDA\AnimalesApp\AnimalesApp\obj\Debug\net8.0\AnimalesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\EDA\AnimalesApp\AnimalesApp\obj\Debug\net8.0\AnimalesApp.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\EDA\AnimalesApp\AnimalesApp\obj\Debug\net8.0\AnimalesApp.AssemblyInfo.cs
+C:\Mac\Home\Documents\EDA\AnimalesApp\AnimalesApp\obj\Debug\net8.0\AnimalesApp.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\EDA\AnimalesApp\AnimalesApp\obj\Debug\net8.0\AnimalesApp.dll
+C:\Mac\Home\Documents\EDA\AnimalesApp\AnimalesApp\obj\Debug\net8.0\refint\AnimalesApp.dll
+C:\Mac\Home\Documents\EDA\AnimalesApp\AnimalesApp\obj\Debug\net8.0\AnimalesApp.pdb
+C:\Mac\Home\Documents\EDA\AnimalesApp\AnimalesApp\obj\Debug\net8.0\AnimalesApp.genruntimeconfig.cache
+C:\Mac\Home\Documents\EDA\AnimalesApp\AnimalesApp\obj\Debug\net8.0\ref\AnimalesApp.dll
